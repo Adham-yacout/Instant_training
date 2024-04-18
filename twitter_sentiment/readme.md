@@ -35,4 +35,5 @@ In this project, I performed sentiment analysis on Twitter data using a logistic
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone <git clone https://github.com/Adham-yacout/Instant_training.git
+>
