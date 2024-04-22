@@ -67,7 +67,7 @@ def main():
 
         # Set up HuggingFace LLM
         llm = HuggingFaceHub(
-            huggingfacehub_api_token="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",
+            huggingfacehub_api_token="add here the api token",
             repo_id="tiiuae/falcon-7b-instruct",
             # model_kwargs={"temperature": 1.0, "max_length": 256},
         )
