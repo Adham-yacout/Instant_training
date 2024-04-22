@@ -12,6 +12,7 @@ The application allows users to upload a PDF file and interact with it through n
 
 ## Prerequisites
 - Python 3.8 or later
+- you will need an api key from huggingchat
 - streamlit==1.18.1
 - LangChain
 - PyPDF2==3.0.1
